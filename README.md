@@ -1,6 +1,7 @@
 # Guess The Number
 
 A simple JavaScript game where you try to guess a randomly generated number.
+Check out at- https://basantae.github.io/GuesstheNumber/
 
 ## Features
 
